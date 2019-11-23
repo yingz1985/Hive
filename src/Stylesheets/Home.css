@@ -1,0 +1,97 @@
+.home
+{
+    background-color: #cce7daff;
+    height:100%;
+}
+.heading
+{
+    font-size:18px;
+    font-family: Mansalva;
+    margin-top:20px;
+    margin-bottom: 10px;
+    margin-left:150px;
+
+}
+.img
+{
+
+    margin-bottom: 10px;
+    margin-left:150px;
+
+}
+.heading1
+{
+    font-size:15px;
+    font-family: fantasy;
+    margin-top:20px;
+    margin-bottom: 10px;
+    margin-left:150px;
+
+}
+.heading3
+{
+    font-size:25px;
+    font-family: Mansalva;
+    margin-top:20px;
+    margin-bottom: 5px;
+    margin-left:150px;
+
+}
+.heading4
+{
+    font-size:15px;
+    font-family: Verdana;
+    margin-top:20px;
+    margin-bottom: 5px;
+    margin-left:150px;
+    margin-right:50px;
+
+}
+.head_icon{
+    width:50px;
+    height:70px;
+    display:inline-block;
+    object-fit:cover;
+    margin-left:10px;
+
+
+
+
+}
+.intro
+{
+    display:inline-block;
+    font-family:serif;
+    margin-left:30px;
+    align-content: center;
+    padding-bottom: 10px;
+}
+.more
+{
+    width:30px;
+    height:30px;
+    display:inline-block;
+
+
+
+}
+.right
+{
+    alignment:right;
+    display:inline-block;
+    margin-left: 300px;
+    margin-top:20px;
+
+
+}
+.suggestion
+{
+    float:right;
+    margin-right: 270px;
+    background-color:#ff9955ff;
+    width:240px;
+    height:40px;
+    border-width:2px;
+    border-color: #1e276d;
+
+}
